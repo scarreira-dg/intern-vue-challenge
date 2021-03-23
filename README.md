@@ -15,7 +15,7 @@ We recommend that you use, [vue-cli](https://cli.vuejs.org/).
 Your website must be able to interact with our [api](https://challenge-api.debtges.com:40004/docs/). Here are the functionalities we want to have in the website:
 
 1. Login/Logout with JWT bearer token you can use [this tool](https://jwt.io/) to decode the JWT and check its contents;
-2. Decode the JWT token and display the Name field that comes in the user object somewhere at the page;
+2. Decode the JWT token and display the [name] field that comes in the user object somewhere at the page;
 3. Display beers in a paginated table, that allows the user to choose how many beers to show per page (25-50);
 4. Search for a beer by its name;
 5. Search for a beer with ABV lower than a certain value;
