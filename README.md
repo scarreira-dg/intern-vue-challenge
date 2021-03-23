@@ -37,7 +37,7 @@ You have 3 days countig from the date that the challenge was given to you.
 
 # How to deliver
 
-Create a github repository with your project and work there. As soon as you have a repo ready send an email to the organizer titled "REPO FOR JAVASCRIPT CHALLENGE - <FirstName LastName>" with the link in the body.
+Create a github repository with your project and work there. As soon as you have a repo ready send an email to the organizer titled "REPO FOR VUE.JS CHALLENGE - <FirstName LastName>" with the link in the body.
 
 # Grading
 
