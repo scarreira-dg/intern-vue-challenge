@@ -16,13 +16,14 @@ Your website must be able to interact with our [api](https://challenge-api.debtg
 
 1. Login/Logout with JWT bearer token you can use [this tool](https://jwt.io/) to decode the JWT and check its contents;
 2. Decode the JWT token and display the **[name]** field that comes in the user object somewhere at the page;
-3. Display beers in a paginated table, that allows the user to choose how many beers to show per page **(25 and 50)**;
-4. Search for a beer by its name;
-5. Search for a beer with ABV lower than a certain value;
-6. Search for a beer with ABV greater than a certain value;
-7. Search for all beers that match a certain food;
-8. Search for all beers brewed before a certain date;
-9. Get a random beer suggestion;
+3. Display beers in a paginated table **fields to display [name, first_brewed, abv, ibu, ph, attenuation_level]**, that allows the user to choose how many beers to show per page **(25 and 50)**;
+4. A column with a details button to **show the fields [name, tag lines, description, imagem, volume, ingredients, food_pairing]**
+5. Search for a beer by its name;
+6. Search for a beer with ABV lower than a certain value;
+7. Search for a beer with ABV greater than a certain value;
+8. Search for all beers that match a certain food;
+9. Search for all beers brewed before a certain date;
+10. Get a random beer suggestion;
 
 
 You will require some knowledge of html and css to perform this challenge.
